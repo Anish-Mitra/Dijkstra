@@ -1,6 +1,6 @@
 # Dijkstra Algorithm Implementation
 
-This READme file is to illustrate the general procedure to run the Dijkstra Algorithm code, the required inputs and the subsequent output.
+This README file is to illustrate the general procedure to run the Dijkstra Algorithm code, the required inputs and the subsequent output.
 
 ****************************************************
 CONTENTS OF FOLDER:
