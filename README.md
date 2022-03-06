@@ -21,8 +21,8 @@ PROCEDURE TO RUN CODE:
 ****************************************************
 
 GENERATING VIDEOS:
-1) Once the backtracking animation is complete, press any key to close the windows.
+1) Once the backtracking animation is complete, press any key to close the windows. 
 
-NOTE1: The videos are generated/updated ONLY when the backtracking animation window is closed. 
+NOTE: The videos are generated/updated ONLY when the backtracking animation window is closed. 
 
 
